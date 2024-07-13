@@ -22,7 +22,7 @@ This is a chat application with functionality for user authentication and chatti
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/chat-app.git
+git clone https://github.com/ashutoshdeshmukh22/baat-karo-chat-app.git
 cd chat-app
 ```
 
@@ -37,6 +37,8 @@ npm install
 cd server
 npm install
 ```
+
+### NOTE: Before Starting The Servers Create A Database Name baat-karo In your Postgre SQL DB Server
 
 4. Start the development frontend server:
 ```bash
